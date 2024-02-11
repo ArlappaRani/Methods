@@ -1,0 +1,31 @@
+Method 1:
+In main method just we invoking a method but we will not take any parameters
+In a method(static) we are not taking return value we considering void 
+
+Method2:
+Will take two methods here one method is main method here we taking user inputs
+and invoking a method
+In second method we performing a specific task and writing logics
+In the second method we returning a value based on the task we are performing
+
+Method3:
+Will take two methods
+The first method is main method here we are not taking a parameters but 
+invoking a method
+In the second method we writing a logic and returning a value but we are not 
+accepting the inputs
+
+Method4:
+will Write two methods
+In the main method will take inputs and in method calling will pass arguments
+In the method creation will accept the parameters and also return the value
+
+
+Calculator Program
+In main method taking two user inputs num1,num2
+In main method Passing the arguments to methods and calling a methods
+Storing the result in different variables based on operation
+printing the results
+In method2
+Creating a different methods and taking the parameters
+finally returning it's values

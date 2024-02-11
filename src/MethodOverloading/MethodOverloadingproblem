@@ -1,0 +1,28 @@
+Method Overloading:
+Creating  a multiple methods having same methodNames inside the same class
+
+MaggiProgram:
+In this program creating a multiple methods having a same name and 
+inside the same class
+In each method will perform a different tasks
+In that first we are not taking any parameters,will not pass arguments
+In that second task is taking a quantity parameter and passing arguments 
+to method
+In that third task is taking a Type parameter which return string value
+In that fourth task is taking a two inputs quantity and type of maggi 
+These 4 tasks performing with a same method name
+Finally creating main method and calling the methods
+
+
+Calculate Area:
+In this program calculating the area of square,circle,rectangle
+For calculating area of square we want side value it will be calculated
+as (side*side) So we taking user input as side
+For calculating area of circle formula is (3.14F*radius*radius)So will
+take user input as radius it is float type
+For calculating area of Rectangle formula is(Length*breadth)So will take
+Length,breadth two user inputs
+We storing results in a variable and displaying results
+These all things are written in a main method
+Here we are taking same method names inside the same class
+creating a methods and returning the values
